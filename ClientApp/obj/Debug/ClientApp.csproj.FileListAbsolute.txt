@@ -1,0 +1,4 @@
+c:\users\paswathanarayan\documents\visual studio 2010\Projects\MySampleWcf\ClientApp\bin\ClientApp.dll
+c:\users\paswathanarayan\documents\visual studio 2010\Projects\MySampleWcf\ClientApp\bin\ClientApp.pdb
+c:\users\paswathanarayan\documents\visual studio 2010\Projects\MySampleWcf\ClientApp\obj\Debug\ClientApp.dll
+c:\users\paswathanarayan\documents\visual studio 2010\Projects\MySampleWcf\ClientApp\obj\Debug\ClientApp.pdb

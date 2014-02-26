@@ -1,0 +1,4 @@
+c:\users\paswathanarayan\documents\visual studio 2010\Projects\MySampleWcf\Prathima\bin\Prathima.dll
+c:\users\paswathanarayan\documents\visual studio 2010\Projects\MySampleWcf\Prathima\bin\Prathima.pdb
+c:\users\paswathanarayan\documents\visual studio 2010\Projects\MySampleWcf\Prathima\obj\Debug\Prathima.dll
+c:\users\paswathanarayan\documents\visual studio 2010\Projects\MySampleWcf\Prathima\obj\Debug\Prathima.pdb

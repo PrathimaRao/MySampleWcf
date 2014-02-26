@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientApp", "ClientApp\ClientApp.csproj", "{3783C8B7-7EEC-4AFB-8077-0B4F2E937ECE}"
+	ProjectSection(ProjectDependencies) = postProject
+		{DEDBBDEF-74D7-4369-B284-997FE670E4A0} = {DEDBBDEF-74D7-4369-B284-997FE670E4A0}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prathima", "Prathima\Prathima.csproj", "{DEDBBDEF-74D7-4369-B284-997FE670E4A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3783C8B7-7EEC-4AFB-8077-0B4F2E937ECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3783C8B7-7EEC-4AFB-8077-0B4F2E937ECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3783C8B7-7EEC-4AFB-8077-0B4F2E937ECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3783C8B7-7EEC-4AFB-8077-0B4F2E937ECE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEDBBDEF-74D7-4369-B284-997FE670E4A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEDBBDEF-74D7-4369-B284-997FE670E4A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEDBBDEF-74D7-4369-B284-997FE670E4A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEDBBDEF-74D7-4369-B284-997FE670E4A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
