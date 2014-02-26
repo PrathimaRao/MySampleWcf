@@ -1,0 +1,4 @@
+MySampleWcf
+===========
+
+WCF example programs
